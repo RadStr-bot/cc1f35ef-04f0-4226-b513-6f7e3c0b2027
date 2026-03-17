@@ -1,0 +1,20 @@
+{
+  "iri": "1qs58",
+  "projectIri": "1qs58",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Default local model"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-17T07:56:15.317Z",
+    "modificationDate": "2026-03-17T07:56:15.425Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-17T08:10:28.605Z",
+  "_exportedBy": "http://localhost:3100"
+}

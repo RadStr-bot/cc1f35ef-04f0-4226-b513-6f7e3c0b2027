@@ -1,0 +1,59 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "1qs58",
+  "modelAlias": "Default local model",
+  "baseIri": "",
+  "entities": {
+    "pjkej8mehxmmubpxrx": {
+      "iri": "unevenMother",
+      "name": {
+        "en": "Uneven Mother"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "pjkej8mehxmmubpxrx",
+      "type": [
+        "class"
+      ]
+    },
+    "f97qnyhxuwhmmubq2n1": {
+      "iri": "sweetResult",
+      "name": {
+        "en": "Sweet Result"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "f97qnyhxuwhmmubq2n1",
+      "type": [
+        "class"
+      ]
+    },
+    "li7jghxabzdmmubq2n5": {
+      "ends": [
+        {
+          "iri": null,
+          "name": {},
+          "description": {},
+          "concept": "pjkej8mehxmmubpxrx",
+          "externalDocumentationUrl": null
+        },
+        {
+          "name": {
+            "en": "Gorgeous Community"
+          },
+          "description": {},
+          "concept": "f97qnyhxuwhmmubq2n1",
+          "iri": "gorgeousCommunity",
+          "externalDocumentationUrl": ""
+        }
+      ],
+      "id": "li7jghxabzdmmubq2n5",
+      "type": [
+        "relationship"
+      ],
+      "iri": null,
+      "name": {},
+      "description": {}
+    }
+  }
+}
