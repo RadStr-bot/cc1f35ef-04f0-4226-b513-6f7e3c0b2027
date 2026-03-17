@@ -1,0 +1,20 @@
+{
+  "iri": "t6k9f",
+  "projectIri": "t6k9f",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Default local model"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-17T07:49:57.256Z",
+    "modificationDate": "2026-03-17T07:49:57.349Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-17T07:50:17.550Z",
+  "_exportedBy": "http://localhost:3100"
+}

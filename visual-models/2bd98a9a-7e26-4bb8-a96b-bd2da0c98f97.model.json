@@ -1,0 +1,57 @@
+{
+  "identifier": "2fde7fc0-dc8b-4318-911e-80ac3f2eaa90/2bd98a9a-7e26-4bb8-a96b-bd2da0c98f97",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "2fde7fc0-dc8b-4318-911e-80ac3f2eaa90/2bd98a9a-7e26-4bb8-a96b-bd2da0c98f97-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    },
+    {
+      "model": "t6k9f",
+      "representedEntity": "pjotwysombmmubhvhb",
+      "position": {
+        "x": 480,
+        "y": 310,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "hbdso"
+    },
+    {
+      "model": "t6k9f",
+      "representedEntity": "x44yp51nqqgmmubhzvv",
+      "position": {
+        "x": 780,
+        "y": 150,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "3bcpl"
+    },
+    {
+      "model": "t6k9f",
+      "representedRelationship": "ng1mqu0sa3gmmubhzws",
+      "waypoints": [],
+      "visualSource": "hbdso",
+      "visualTarget": "3bcpl",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "m15vp"
+    }
+  ]
+}
