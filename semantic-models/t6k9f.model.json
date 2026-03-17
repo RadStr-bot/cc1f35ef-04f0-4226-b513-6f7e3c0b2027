@@ -1,0 +1,59 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "t6k9f",
+  "modelAlias": "Default local model",
+  "baseIri": "",
+  "entities": {
+    "pjotwysombmmubhvhb": {
+      "iri": "helpfulArt",
+      "name": {
+        "en": "Helpful Art"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "pjotwysombmmubhvhb",
+      "type": [
+        "class"
+      ]
+    },
+    "x44yp51nqqgmmubhzvv": {
+      "iri": "happyPresident",
+      "name": {
+        "en": "Happy President"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "x44yp51nqqgmmubhzvv",
+      "type": [
+        "class"
+      ]
+    },
+    "ng1mqu0sa3gmmubhzws": {
+      "ends": [
+        {
+          "iri": null,
+          "name": {},
+          "description": {},
+          "concept": "pjotwysombmmubhvhb",
+          "externalDocumentationUrl": null
+        },
+        {
+          "name": {
+            "en": "Reassured Body"
+          },
+          "description": {},
+          "concept": "x44yp51nqqgmmubhzvv",
+          "iri": "reassuredBody",
+          "externalDocumentationUrl": ""
+        }
+      ],
+      "id": "ng1mqu0sa3gmmubhzws",
+      "type": [
+        "relationship"
+      ],
+      "iri": null,
+      "name": {},
+      "description": {}
+    }
+  }
+}
